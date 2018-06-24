@@ -1,0 +1,86 @@
+.list-inline li:nth-child(2) {
+    visibility: hidden;
+}
+
+span.zelda {
+    text-align: center;
+}
+
+.intro-header.portfolio {
+    background-image: url('/img/anemone.jpg');
+}
+
+.intro-header.poppy {
+    background-image: url('/img/poppy.jpg');
+    position: relative;
+}
+
+.intro-header.index {
+    background-image: url('/img/blossom.jpg');
+    position: relative;
+}
+
+.intro-header.contact {
+    background-image: url('/img/bracteatum.jpg');
+}
+
+.inProg h3 {
+    text-align:center;
+}
+
+.contact.git:hover .overlay,
+.contact.ghibli:hover .overlay,
+.contact.steve:hover .overlay,
+.contact.rolo:hover .overlay,
+.contact.smp:hover .overlay {
+    opacity: 0.8;
+}
+
+.overlay .text a {
+    color: #6bffe8;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: black;
+}
+
+body img.ham {
+    position: absolute;
+}
+
+.overlay .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+article h2 {
+    text-align: center;
+}
+.faces h4 {
+    text-align: center;
+}
+
+.error {
+    position: absolute;
+	bottom: 0%;
+	left: 0;
+}
+
+.row.first {
+    margin-bottom:20px;
+}
