@@ -84,3 +84,8 @@ article h2 {
 .row.first {
     margin-bottom:20px;
 }
+
+.contact h1, .contact h2, .contact h3, .contact a {
+    font-family: 'Exo';
+    color: #820505;
+  }
