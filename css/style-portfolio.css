@@ -7,21 +7,21 @@ span.zelda {
 }
 
 .intro-header.portfolio {
-    background-image: url('/portfolio-site/img/anemone.jpg');
+    background-image: url('/img/anemone.jpg');
 }
 
 .intro-header.poppy {
-    background-image: url('/portfolio-site/img/poppy.jpg');
+    background-image: url('/img/poppy.jpg');
     position: relative;
 }
 
 .intro-header.index {
-    background-image: url('/portfolio-site/img/blossom.jpg');
+    background-image: url('/img/blossom.jpg');
     position: relative;
 }
 
 .intro-header.contact {
-    background-image: url('/portfolio-site/img/babys-breath.jpg');
+    background-image: url('/img/babys-breath.jpg');
 }
 
 .inProg h3 {
