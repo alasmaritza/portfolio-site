@@ -1,3 +1,12 @@
+footer {
+    position: relative;
+    top: 38px;
+}
+hr {
+    position: relative;
+    top: 50px;
+}
+
 .list-inline li:nth-child(2) {
     visibility: hidden;
 }
@@ -119,4 +128,18 @@ article h2 {
 
   a img:hover {
       cursor:pointer;
+  }
+
+  footer {
+      padding: 0px;
+  }
+
+  footer .copyright {
+      margin-top: 5px;
+  }
+
+  twitter-widget {
+      width: 522px !important;
+      margin:auto;
+      margin-top: 25px !important;
   }
