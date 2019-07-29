@@ -37,6 +37,10 @@ span.zelda {
     text-align:center;
 }
 
+.row.inProg {
+    margin-top: 50px;
+}
+
 .contact.git:hover .overlay,
 .contact.ghibli:hover .overlay,
 .contact.steve:hover .overlay,
